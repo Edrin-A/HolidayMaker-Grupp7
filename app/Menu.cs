@@ -15,7 +15,7 @@ public class Menu
     {
         // skriver ut menyn i konsolen
         Console.WriteLine("Choose option");
-        Console.WriteLine("1. List all");
+        Console.WriteLine("1. List all users");
         Console.WriteLine("2. Show one");
         Console.WriteLine("3. Add one");
         Console.WriteLine("4. Update one");
