@@ -22,7 +22,6 @@ public class Menu
         Console.WriteLine("4. Update one");
         Console.WriteLine("5. Delete one");
         Console.WriteLine("9. Quit");
-        Console.WriteLine("9. Quit");
         Console.WriteLine("===================");
         // lyssnar på användaren
         AskUser();
