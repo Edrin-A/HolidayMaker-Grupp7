@@ -14,6 +14,7 @@ public class Menu
     private void PrintMenu()
     {
         // skriver ut menyn i konsolen
+        Console.WriteLine("===================");
         Console.WriteLine("Choose option");
         Console.WriteLine("1. List all users");
         Console.WriteLine("2. Show one");
@@ -21,6 +22,8 @@ public class Menu
         Console.WriteLine("4. Update one");
         Console.WriteLine("5. Delete one");
         Console.WriteLine("9. Quit");
+        Console.WriteLine("9. Quit");
+        Console.WriteLine("===================");
         // lyssnar på användaren
         AskUser();
     }

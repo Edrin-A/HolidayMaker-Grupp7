@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\namia\\RiderProjects\\HolidayMaker-Grupp7\\app\\app.csproj": {}
+    "/Users/edrin/HolidayMaker-Grupp7/app/app.csproj": {}
   },
   "projects": {
-    "C:\\Users\\namia\\RiderProjects\\HolidayMaker-Grupp7\\app\\app.csproj": {
+    "/Users/edrin/HolidayMaker-Grupp7/app/app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\namia\\RiderProjects\\HolidayMaker-Grupp7\\app\\app.csproj",
+        "projectUniqueName": "/Users/edrin/HolidayMaker-Grupp7/app/app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\Users\\namia\\RiderProjects\\HolidayMaker-Grupp7\\app\\app.csproj",
-        "packagesPath": "C:\\Users\\namia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\namia\\RiderProjects\\HolidayMaker-Grupp7\\app\\obj\\",
+        "projectPath": "/Users/edrin/HolidayMaker-Grupp7/app/app.csproj",
+        "packagesPath": "/Users/edrin/.nuget/packages/",
+        "outputPath": "/Users/edrin/HolidayMaker-Grupp7/app/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
-          "C:\\Users\\namia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/edrin/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

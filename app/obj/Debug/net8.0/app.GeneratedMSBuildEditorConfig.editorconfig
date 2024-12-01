@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = app
-build_property.ProjectDir = C:\Users\namia\RiderProjects\HolidayMaker-Grupp7\app\
+build_property.ProjectDir = /Users/edrin/HolidayMaker-Grupp7/app/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
