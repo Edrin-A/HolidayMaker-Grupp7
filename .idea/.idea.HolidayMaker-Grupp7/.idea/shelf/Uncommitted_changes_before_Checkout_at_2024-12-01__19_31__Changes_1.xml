@@ -1,0 +1,19 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_2024-12-01,_19_31_[Changes]1" date="1733077906933" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/.idea.HolidayMaker-Grupp7/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024-12-01,_19_31_[Changes]1/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 2024-12-01, 19:31 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="app/obj/Debug/net8.0/app.pdb" />
+    <option name="AFTER_PATH" value="app/obj/Debug/net8.0/app.pdb" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.HolidayMaker-Grupp7/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024-12-01,_19_31_[Changes]1/app.pdb" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/obj/Debug/net8.0/app.dll" />
+    <option name="AFTER_PATH" value="app/obj/Debug/net8.0/app.dll" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.HolidayMaker-Grupp7/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024-12-01,_19_31_[Changes]1/app.dll" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache" />
+    <option name="AFTER_PATH" value="app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/.idea.HolidayMaker-Grupp7/.idea/shelf/Uncommitted_changes_before_Checkout_at_2024-12-01,_19_31_[Changes]1/app.AssemblyInfoInputs.cache" />
+  </binary>
+</changelist>

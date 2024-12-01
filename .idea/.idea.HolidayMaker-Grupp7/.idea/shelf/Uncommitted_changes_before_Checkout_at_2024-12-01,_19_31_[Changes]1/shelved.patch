@@ -1,0 +1,15 @@
+Index: app/obj/Debug/net8.0/app.sourcelink.json
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>{\"documents\":{\"/Users/edrin/HolidayMaker-Grupp7/*\":\"https://raw.githubusercontent.com/Edrin-A/HolidayMaker-Grupp7/3ec56373e0ef2fc0d04ad06a18619192d66cf7a2/*\"}}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/obj/Debug/net8.0/app.sourcelink.json b/app/obj/Debug/net8.0/app.sourcelink.json
+--- a/app/obj/Debug/net8.0/app.sourcelink.json	(revision b3003c8a153fb72451a5f458b00818005c8ad0d3)
++++ b/app/obj/Debug/net8.0/app.sourcelink.json	(date 1733077840469)
+@@ -1,1 +1,1 @@
+-{"documents":{"/Users/edrin/HolidayMaker-Grupp7/*":"https://raw.githubusercontent.com/Edrin-A/HolidayMaker-Grupp7/3ec56373e0ef2fc0d04ad06a18619192d66cf7a2/*"}}
+\ No newline at end of file
++{"documents":{"/Users/edrin/HolidayMaker-Grupp7/*":"https://raw.githubusercontent.com/Edrin-A/HolidayMaker-Grupp7/b3003c8a153fb72451a5f458b00818005c8ad0d3/*"}}
+\ No newline at end of file
