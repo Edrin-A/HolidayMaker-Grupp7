@@ -45,6 +45,11 @@
 _UpgradeReport_Files/
 [Pp]ackages/
 
+bin/
+obj/
+*.dll
+*.pdb
+
 Thumbs.db
 Desktop.ini
 .DS_Store
