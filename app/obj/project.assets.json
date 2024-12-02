@@ -185,26 +185,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/edrin/.nuget/packages/": {}
+    "/Users/farzaddehzad/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/edrin/HolidayMaker-Grupp7/app/app.csproj",
+      "projectUniqueName": "/Users/farzaddehzad/RiderProjects/HolidayMaker-Grupp7/app/app.csproj",
       "projectName": "app",
-      "projectPath": "/Users/edrin/HolidayMaker-Grupp7/app/app.csproj",
-      "packagesPath": "/Users/edrin/.nuget/packages/",
-      "outputPath": "/Users/edrin/HolidayMaker-Grupp7/app/obj/",
+      "projectPath": "/Users/farzaddehzad/RiderProjects/HolidayMaker-Grupp7/app/app.csproj",
+      "packagesPath": "/Users/farzaddehzad/.nuget/packages/",
+      "outputPath": "/Users/farzaddehzad/RiderProjects/HolidayMaker-Grupp7/app/obj/",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "/Users/edrin/.nuget/NuGet/NuGet.Config"
+        "/Users/farzaddehzad/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

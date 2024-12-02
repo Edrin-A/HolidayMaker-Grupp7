@@ -9,15 +9,29 @@
   <component name="ChangeListManager">
     <list default="true" id="1eb27738-e3b6-49ee-9e11-ea19e8d1fdc0" name="Changes" comment=".">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HolidayMaker-Grupp7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HolidayMaker-Grupp7/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Database.cs" beforeDir="false" afterPath="$PROJECT_DIR$/app/Database.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/bin/Debug/net8.0/app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/Debug/net8.0/app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/bin/Debug/net8.0/app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/app/bin/Debug/net8.0/app.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/app.sourcelink.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/ref/app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/ref/app.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/obj/Debug/net8.0/refint/app.dll" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/Debug/net8.0/refint/app.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/app.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/app.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/app.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/app.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/app/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +79,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="app" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -110,6 +124,7 @@
       <workItem from="1733074728950" duration="2145000" />
       <workItem from="1733076887404" duration="650000" />
       <workItem from="1733077660978" duration="3235000" />
+      <workItem from="1733126520822" duration="1303000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
